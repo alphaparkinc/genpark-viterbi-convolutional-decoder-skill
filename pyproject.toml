@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-viterbi-convolutional-decoder-skill"
+version = "1.0.0"
+description = "Rate 1/2 constraint-length 3 convolutional encoder and Viterbi trellis maximum-likelihood path decoder"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
