@@ -1,0 +1,20 @@
+{
+  "name": "genpark-viterbi-convolutional-decoder-skill",
+  "version": "1.0.0",
+  "description": "Rate 1/2 constraint-length 3 convolutional encoder and Viterbi trellis maximum-likelihood path decoder",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "viterbi-algorithm",
+    "convolutional-code",
+    "trellis-decoder",
+    "maximum-likelihood",
+    "channel-coding",
+    "forward-error-correction",
+    "python-standard-library",
+    "agent-skills",
+    "digital-communication",
+    "path-metric"
+  ]
+}
